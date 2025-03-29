@@ -31,4 +31,4 @@ This project is a **Resume Parser and Evaluator** that extracts structured infor
 3. **User-Friendly Interface**: Displays matching internships and provides a **one-click redirect** to the Internshala page for easy application.
 4. **Real-time Updates**: Ensures users get the latest internship listings tailored to their profile.
 
-This setup ensures **efficient storage and retrieval** of resumes based on their **semantic similarity**, while also providing **personalized internship recommendations** to users in real-time.
+
